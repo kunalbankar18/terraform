@@ -151,9 +151,9 @@ terraform apply
 
     Visit:
 
-        http://<alb-dns>/api → Flask
+        http://51.20.106.100:5000/ → Flask
 
-        http://<alb-dns>/ → Express
+        http://51.20.114.53:3000/ → Express
 
 📤 Clean Up
 
